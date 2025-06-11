@@ -15,7 +15,7 @@
 <img src="./Results/lane_detect.jpg" alt="Logo" width="450" height="300"> 
 
  ## Object Detection Processing
-<img src="./Results/detic_obj_detect.jpg" alt="Logo" width="450" height="300"> 
+<img src="./Results/detic_obj_detect.png" alt="Logo" width="450" height="300"> 
 
 
 ## Here's how to run the models
