@@ -1,8 +1,7 @@
 ﻿# EinsteinVision
 
 ## Ground Truth, Render Image, Lane Detection and Object Detection.
-| <img src="./Results/com_gif.gif" alt="Logo" width="450" height="300"> |
-|:--:|:---:|
+<img src="./Results/com_gif.gif" alt="Logo" width="450" height="300">
 
 <!-- <img src="./Results/2.png" alt="Logo" width="450" height="300"> | -->
 
